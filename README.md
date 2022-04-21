@@ -10,3 +10,4 @@
 - Step 6: Ascii art
     - 6a: Bat
     - 6b: Bird
+    - 6c: Fish
