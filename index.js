@@ -1,3 +1,12 @@
 const packageJson = require('./package.json');
 const semver = packageJson?.version || 'unknown';
-console.log(`App version "${semver}"`);
+
+function getDMY() {
+    const date = new Date();
+    const day = date.getUTCDate();
+    const month = date.getUTCMonth() + 1;
+    const year = date.getUTCFullYear();
+    return `${month}/${day}/${year}`;
+}
+
+console.log(`MBH@${getDMY()} App version "${semver}"`);

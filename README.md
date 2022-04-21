@@ -11,3 +11,4 @@
     - 6a: Bat
     - 6b: Bird
     - 6c: Fish
+- Step 7: Add date to version output
