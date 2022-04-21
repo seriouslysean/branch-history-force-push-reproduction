@@ -9,3 +9,4 @@
     - Note: Run `npm run start` to get the app version
 - Step 6: Ascii art
     - 6a: Bat
+    - 6b: Bird
