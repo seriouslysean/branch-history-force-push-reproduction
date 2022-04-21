@@ -7,3 +7,5 @@
 - Step 4. Add a CODEOWNERS file
 - Step 5. Add a package.json file
     - Note: Run `npm run start` to get the app version
+- Step 6: Ascii art
+    - 6a: Bat
