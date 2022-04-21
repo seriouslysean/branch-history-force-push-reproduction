@@ -1,6 +1,6 @@
 {
   "name": "main-branch-history",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "- Step 1. Add a new line to the repository     - Note: More steps to come :) - Step 2. Add a LICENSE file - Step 3. Add a pull request template - Step 4. Add a CODEOWNERS file - Step 5. Add a package.json file",
   "main": "index.js",
   "scripts": {
